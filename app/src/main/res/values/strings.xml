@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">provaleonardo</string>
+    <string name="app_name">Estoque Virtual</string>
+    <string name="register_product">Cadastro de Produto</string>
+    <string name="product_name">Nome do produto</string>
+    <string name="product_code">Codigo do produto</string>
+    <string name="product_price">Preco (R$)</string>
+    <string name="product_quantity">Quantidade em estoque</string>
+    <string name="save_product">Salvar produto</string>
+    <string name="view_products">Ver produtos cadastrados</string>
+    <string name="error_empty_fields">Preencha todos os campos.</string>
+    <string name="error_code_invalid">Use apenas letras e numeros no codigo.</string>
+    <string name="error_price_invalid">Informe um preco positivo com ate 2 casas decimais.</string>
+    <string name="error_quantity_invalid">Informe uma quantidade inteira positiva.</string>
+    <string name="product_saved">Produto salvo com sucesso.</string>
+    <string name="list_title">Produtos cadastrados</string>
+    <string name="back_to_register">Voltar ao cadastro</string>
+    <string name="empty_list">Nenhum produto cadastrado ainda.</string>
+    <string name="list_code_value">Codigo: %1$s</string>
+    <string name="list_price_value">Preco: %1$s</string>
 </resources>

@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue_primary">#1565C0</color>
+    <color name="blue_on_primary">#FFFFFFFF</color>
+    <color name="blue_primary_container">#D6E9FF</color>
+    <color name="blue_on_primary_container">#0B3A75</color>
+    <color name="blue_background">#F4F8FF</color>
+    <color name="blue_surface">#FFFFFFFF</color>
+    <color name="blue_on_surface">#0F172A</color>
+    <color name="blue_outline">#90CAF9</color>
 </resources>
